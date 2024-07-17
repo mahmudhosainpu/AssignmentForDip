@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+:root{
+    --primary-bg-color: #1E1E1E;
+    --primary-font-color:#FFFFFF;
+    --exp-sec:linear-gradient(270.16deg, rgba(255, 177, 71, 0.1) 5.74%, rgba(255, 108, 99, 0.1) 50.64%, rgba(184, 106, 223, 0.1) 92.05%);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: var(--primary-bg-color);
+    font-family: "Rubik";
+    color: var(--primary-font-color);
+    
+}
